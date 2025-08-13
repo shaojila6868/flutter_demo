@@ -10,6 +10,7 @@ class MyApp extends  StatelessWidget {
 
   final nativeBridge = NativeBridge();
 
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
